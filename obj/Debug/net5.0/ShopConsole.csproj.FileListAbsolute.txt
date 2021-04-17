@@ -1,0 +1,16 @@
+/home/carlosalbertorios/Documentos/Programación/ShopConsole/bin/Debug/net5.0/ShopConsole
+/home/carlosalbertorios/Documentos/Programación/ShopConsole/bin/Debug/net5.0/ShopConsole.deps.json
+/home/carlosalbertorios/Documentos/Programación/ShopConsole/bin/Debug/net5.0/ShopConsole.runtimeconfig.json
+/home/carlosalbertorios/Documentos/Programación/ShopConsole/bin/Debug/net5.0/ShopConsole.runtimeconfig.dev.json
+/home/carlosalbertorios/Documentos/Programación/ShopConsole/bin/Debug/net5.0/ShopConsole.dll
+/home/carlosalbertorios/Documentos/Programación/ShopConsole/bin/Debug/net5.0/ref/ShopConsole.dll
+/home/carlosalbertorios/Documentos/Programación/ShopConsole/bin/Debug/net5.0/ShopConsole.pdb
+/home/carlosalbertorios/Documentos/Programación/ShopConsole/obj/Debug/net5.0/ShopConsole.csprojAssemblyReference.cache
+/home/carlosalbertorios/Documentos/Programación/ShopConsole/obj/Debug/net5.0/ShopConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlosalbertorios/Documentos/Programación/ShopConsole/obj/Debug/net5.0/ShopConsole.AssemblyInfoInputs.cache
+/home/carlosalbertorios/Documentos/Programación/ShopConsole/obj/Debug/net5.0/ShopConsole.AssemblyInfo.cs
+/home/carlosalbertorios/Documentos/Programación/ShopConsole/obj/Debug/net5.0/ShopConsole.csproj.CoreCompileInputs.cache
+/home/carlosalbertorios/Documentos/Programación/ShopConsole/obj/Debug/net5.0/ShopConsole.dll
+/home/carlosalbertorios/Documentos/Programación/ShopConsole/obj/Debug/net5.0/ref/ShopConsole.dll
+/home/carlosalbertorios/Documentos/Programación/ShopConsole/obj/Debug/net5.0/ShopConsole.pdb
+/home/carlosalbertorios/Documentos/Programación/ShopConsole/obj/Debug/net5.0/ShopConsole.genruntimeconfig.cache
