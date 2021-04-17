@@ -79,6 +79,10 @@ namespace ShopConsole
                     tmp.Next = newNode;
                     return true;
                 }
+                else
+                {
+                    Console.WriteLine("The article is already registered in the system.");
+                }
             }
             return false;
         }
@@ -102,6 +106,10 @@ namespace ShopConsole
                     }
                 }
             }
+            if (!found)
+            {
+                Console.WriteLine("The client is not registered in the system.");
+            }
             return found;
         }
 
@@ -123,6 +131,10 @@ namespace ShopConsole
                         tmp = tmp.Next;
                     }
                 }
+            }
+            if (!found)
+            {
+                Console.WriteLine("The client is not registered in the system.");
             }
             return found;
         }
