@@ -57,7 +57,7 @@ namespace ShopConsole
         }
 
         // Method to add a new article to the list
-        public bool AddArticle(Article articleData)
+        public bool addArticle(Article articleData)
         {
             if (articleData == null)
             {
@@ -106,10 +106,7 @@ namespace ShopConsole
                     }
                 }
             }
-            if (!found)
-            {
-                Console.WriteLine("The client is not registered in the system.");
-            }
+            
             return found;
         }
 
@@ -132,10 +129,7 @@ namespace ShopConsole
                     }
                 }
             }
-            if (!found)
-            {
-                Console.WriteLine("The client is not registered in the system.");
-            }
+
             return found;
         }
 
@@ -153,6 +147,9 @@ namespace ShopConsole
                     {
                         tmp = tmp.Next;
                     }
+                }else
+                {
+                    Console.WriteLine("The article is not registered in the system.");
                 }
             }
             return tmp;
@@ -172,6 +169,9 @@ namespace ShopConsole
                     {
                         tmp = tmp.Next;
                     }
+                }else
+                {
+                    Console.WriteLine("The client is not registered in the system.");
                 }
             }
             return tmp;

@@ -57,7 +57,7 @@ namespace ShopConsole
         }
 
         // Method to add a new customer to the list
-        public bool AddCustomer(Customer customerData)
+        public bool addCustomer(Customer customerData)
         {
             if (customerData == null)
             {
@@ -105,10 +105,6 @@ namespace ShopConsole
                     }
                 }
             }
-            if (!found)
-            {
-                Console.WriteLine("The client is not registered in the system.");
-            }
             return found;
         }
 
@@ -130,10 +126,6 @@ namespace ShopConsole
                         tmp = tmp.Next;
                     }
                 }
-            }
-            if (!found)
-            {
-                Console.WriteLine("The client is not registered in the system.");
             }
             return found;
         }

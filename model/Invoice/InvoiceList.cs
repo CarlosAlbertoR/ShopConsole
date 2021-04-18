@@ -57,7 +57,7 @@ namespace ShopConsole
         }
 
         // Method to add a new invoice to the list
-        public bool AddInvoice(Invoice invoiceData)
+        public bool addInvoice(Invoice invoiceData)
         {
             if (invoiceData == null)
             {
